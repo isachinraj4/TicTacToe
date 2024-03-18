@@ -43,7 +43,7 @@ body{
     align-items: center;
     justify-content: center;
     gap:5px;
-    padding-top: 20%;
+    padding-top: 5vmin;
 
 }
 .game-button{
